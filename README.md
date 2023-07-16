@@ -1,3 +1,24 @@
+# Quote Generator
+
+A simple React application that generates random quotes using the type.fit API.  
+
+[Live Demo](http://Muhammed-Safwan21.github.io/quote-generator)
+# Features
+
+- Click the "Get a Quote" button to fetch a random quote from the API.  
+- Display the fetched quote along with its author in a quote box.  
+
+# Technologies Used
+- React  
+- JavaScript  
+- HTML  
+- CSS
+
+# API
+This project utilizes the type.fit API to fetch random quotes.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
